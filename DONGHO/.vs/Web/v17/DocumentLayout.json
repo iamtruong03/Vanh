@@ -1,57 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\DONGHO\\DONGHO\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|D:\\C#\\DONGHO\\DONGHO\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|c:\\users\\admin\\downloads\\duongthanhdat\\duongthanhdat\\dongho\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|D:\\C#\\DONGHO\\DONGHO\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|D:\\C#\\DONGHO\\DONGHO\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|solutionrelative:controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|D:\\C#\\DONGHO\\DONGHO\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|D:\\C#\\DONGHO\\DONGHO\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|D:\\C#\\DONGHO\\DONGHO\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|solutionrelative:controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|D:\\C#\\DONGHO\\DONGHO\\views\\menu\\_menuproductcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|solutionrelative:controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\views\\menu\\_menuproductcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|solutionrelative:views\\menu\\_menuproductcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|D:\\C#\\DONGHO\\DONGHO\\views\\menu\\_menusupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\views\\menu\\_menusupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|solutionrelative:views\\menu\\_menusupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|D:\\C#\\DONGHO\\DONGHO\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|D:\\C#\\DONGHO\\DONGHO\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|D:\\C#\\DONGHO\\DONGHO\\mahoa\\mahoadulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\mahoa\\mahoadulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|solutionrelative:mahoa\\mahoadulieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|D:\\C#\\DONGHO\\DONGHO\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|Web.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|D:\\C#\\DONGHO\\DONGHO\\areas\\admin\\views\\statistical\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\areas\\admin\\views\\statistical\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|solutionrelative:areas\\admin\\views\\statistical\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -62,40 +66,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 922,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MenuController.cs",
-              "DocumentMoniker": "D:\\C#\\DONGHO\\DONGHO\\Controllers\\MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Controllers\\MenuController.cs",
               "RelativeDocumentMoniker": "Controllers\\MenuController.cs",
-              "ToolTip": "D:\\C#\\DONGHO\\DONGHO\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Controllers\\MenuController.cs",
               "RelativeToolTip": "Controllers\\MenuController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T06:08:48.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T06:08:48.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\C#\\DONGHO\\DONGHO\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\C#\\DONGHO\\DONGHO\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,11 +94,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Contact.cshtml",
-              "DocumentMoniker": "D:\\C#\\DONGHO\\DONGHO\\Views\\Home\\Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
-              "ToolTip": "D:\\C#\\DONGHO\\DONGHO\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Views\\Home\\Contact.cshtml",
               "RelativeToolTip": "Views\\Home\\Contact.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -117,22 +108,34 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\C#\\DONGHO\\DONGHO\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\C#\\DONGHO\\DONGHO\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBIAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T05:00:35.939Z",
+              "WhenOpened": "2024-07-08T05:00:35.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAACsAAAAAAAAAAAAhwAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-29T03:14:04.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ShoppingCartController.cs",
-              "DocumentMoniker": "D:\\C#\\DONGHO\\DONGHO\\Controllers\\ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Controllers\\ShoppingCartController.cs",
               "RelativeDocumentMoniker": "Controllers\\ShoppingCartController.cs",
-              "ToolTip": "D:\\C#\\DONGHO\\DONGHO\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Controllers\\ShoppingCartController.cs",
               "RelativeToolTip": "Controllers\\ShoppingCartController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,24 +143,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\C#\\DONGHO\\DONGHO\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\C#\\DONGHO\\DONGHO\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T07:35:31.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T07:35:31.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_MenuProductCategory.cshtml",
-              "DocumentMoniker": "D:\\C#\\DONGHO\\DONGHO\\Views\\Menu\\_MenuProductCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Views\\Menu\\_MenuProductCategory.cshtml",
               "RelativeDocumentMoniker": "Views\\Menu\\_MenuProductCategory.cshtml",
-              "ToolTip": "D:\\C#\\DONGHO\\DONGHO\\Views\\Menu\\_MenuProductCategory.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Views\\Menu\\_MenuProductCategory.cshtml",
               "RelativeToolTip": "Views\\Menu\\_MenuProductCategory.cshtml",
               "ViewState": "AgIAABIAAACAZmZmZmYkwBoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -165,11 +167,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_MenuSupplier.cshtml",
-              "DocumentMoniker": "D:\\C#\\DONGHO\\DONGHO\\Views\\Menu\\_MenuSupplier.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Views\\Menu\\_MenuSupplier.cshtml",
               "RelativeDocumentMoniker": "Views\\Menu\\_MenuSupplier.cshtml",
-              "ToolTip": "D:\\C#\\DONGHO\\DONGHO\\Views\\Menu\\_MenuSupplier.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Views\\Menu\\_MenuSupplier.cshtml",
               "RelativeToolTip": "Views\\Menu\\_MenuSupplier.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -177,11 +179,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Web.config",
-              "DocumentMoniker": "D:\\C#\\DONGHO\\DONGHO\\Web.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "D:\\C#\\DONGHO\\DONGHO\\Web.config",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Web.config",
               "RelativeToolTip": "Web.config",
               "ViewState": "AQIAACsAAAAAAAAAAAAhwAQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -189,11 +191,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\C#\\DONGHO\\DONGHO\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\C#\\DONGHO\\DONGHO\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -201,11 +203,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "MaHoaDuLieu.cs",
-              "DocumentMoniker": "D:\\C#\\DONGHO\\DONGHO\\MaHoa\\MaHoaDuLieu.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\MaHoa\\MaHoaDuLieu.cs",
               "RelativeDocumentMoniker": "MaHoa\\MaHoaDuLieu.cs",
-              "ToolTip": "D:\\C#\\DONGHO\\DONGHO\\MaHoa\\MaHoaDuLieu.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\MaHoa\\MaHoaDuLieu.cs",
               "RelativeToolTip": "MaHoa\\MaHoaDuLieu.cs",
               "ViewState": "AQIAADcAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -213,11 +215,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "About.cshtml",
-              "DocumentMoniker": "D:\\C#\\DONGHO\\DONGHO\\Views\\Home\\About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
-              "ToolTip": "D:\\C#\\DONGHO\\DONGHO\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "Views\\Home\\About.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -225,11 +227,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\C#\\DONGHO\\DONGHO\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Statistical\\Index.cshtml",
-              "ToolTip": "D:\\C#\\DONGHO\\DONGHO\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DuongThanhDat\\DuongThanhDat\\DONGHO\\Areas\\Admin\\Views\\Statistical\\Index.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Statistical\\Index.cshtml",
               "ViewState": "AQIAANoBAAAAAAAAAAAAAKIAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

@@ -147,15 +147,6 @@
                                         </form>
                                     </li>
 
-                                    @if (Request.IsAuthenticated)
-                                    {
-                                        <li class="mr-3">
-                                            <a href="@Url.Action("Logout", "Account")" title="Đăng xuất">
-                                                <i class="fa fa-sign-out" aria-hidden="true"></i>
-                                            </a>
-                                        </li>
-                                    }
-
                                     <li class="checkout">
                                         <a href="/gio-hang">
                                             <i class="fa fa-shopping-cart" aria-hidden="true"></i>
